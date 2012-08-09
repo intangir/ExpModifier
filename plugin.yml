@@ -1,0 +1,5 @@
+name: ExpModifier
+main: org.intangir.ExpModifier.ExpModifier
+version: 1.0
+description: Modifies experience gain rates
+author: Intangir
